@@ -1,1 +1,1 @@
-# Use_PlaNet_to_solve_reaching_task_by_pixel_observation
+# Use_PlaNet_to_solve_customirized_reaching_task_by_pixel_observation
