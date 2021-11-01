@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=7SAwoP7Y8qY
 The 2 images in the left hand side are all the observations for the agent.
 
 ### Lose cureves
-<img src="https://github.com/wq13552463699/UR5E_robot_gym_env_Real_and_Sim/blob/main/Simulation/images/2.png" width="633" >\
+<img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/2.png" width="200" >\
