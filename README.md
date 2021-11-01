@@ -35,3 +35,12 @@ Using images directly as input has the following disadvantages:
 * There is a lot of potential information in the image to be discovered.\
 We need to develop a complete representation model to overcome the above problems. See my other folder for details：\
 https://github.com/wq13552463699/One_to_Multi_Representation
+
+## Reference
+https://github.com/openai/gym
+https://github.com/openai/mujoco-py
+https://github.com/Kaixhin/PlaNet
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change\
+Please make sure to update tests as appropriate.
