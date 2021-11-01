@@ -37,9 +37,9 @@ We need to develop a complete representation model to overcome the above problem
 https://github.com/wq13552463699/One_to_Multi_Representation
 
 ## Reference
-https://github.com/openai/gym
+https://github.com/Kaixhin/PlaNet \
+https://github.com/openai/gym \
 https://github.com/openai/mujoco-py
-https://github.com/Kaixhin/PlaNet
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change\
