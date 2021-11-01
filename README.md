@@ -1,4 +1,4 @@
-# Use_PlaNet_to_solve_customirized_reaching_task_by_pixel_observation
+# Use_PlaNet_to_solve_customirized_reaching_task_by_image_observation
 
 Reinforcement learning(RL) has been widely used in the robotics area to solve a series of object manipulation tasks and achieve satisfactory results. For example, the reaching, 
 pushing,sliding, picking and placing tasks in the OpenAI gym environment has been solved accurately by a few reinforcement learning algorithms. However, it is a challenge 
