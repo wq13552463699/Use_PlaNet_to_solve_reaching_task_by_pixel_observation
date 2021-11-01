@@ -22,7 +22,16 @@ The 2 images in the left hand side are all the observations for the agent.
 
 ### Lose cureves
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/2.png" width="1000" >\
-Since I use a customized reward function (goal-based reward function), the score is not fixed. You can assume that every epoch with around 300 is successful. So at the beginning, the agents rarely reach the target, and after 400 epchos of training, it rarely failed with the success rate above 95%
+Since I use a customized reward function (goal-based reward function), the score is not fixed. You can assume that every epoch with around 300 is successful. So at the beginning, the agents rarely reach the target, and after 400 epchos of training, it rarely failed with the success rate above 95%\
+
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/1.png" width="1000" >\
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/3.png" width="1000" >\
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/4.png" width="1000" >
+
+##Further Concern
+Using images directly as input has the following disadvantages:
+* The dimensionality is high and the convergence speed is slow.
+* There is a lot of redundant information and noise in the image data, which can be misleading.
+* There is a lot of potential information in the image to be discovered.
+We need to develop a complete representation model to overcome the above problems. See my other folder for details：\
+https://github.com/wq13552463699/One_to_Multi_Representation
