@@ -28,10 +28,10 @@ Since I use a customized reward function (goal-based reward function), the score
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/3.png" width="1000" >\
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/4.png" width="1000" >
 
-##Further Concern
+## Further Concern
 Using images directly as input has the following disadvantages:
 * The dimensionality is high and the convergence speed is slow.
 * There is a lot of redundant information and noise in the image data, which can be misleading.
-* There is a lot of potential information in the image to be discovered.
+* There is a lot of potential information in the image to be discovered.\
 We need to develop a complete representation model to overcome the above problems. See my other folder for details：\
 https://github.com/wq13552463699/One_to_Multi_Representation
