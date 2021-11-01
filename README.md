@@ -17,7 +17,7 @@ Please clone the content in this link, and put all the files together within thi
 
 ## Result
 After about 500 epochs of training, the robotic arm can reach the target accurately. Please see the following video\
-https://www.youtube.com/watch?v=7SAwoP7Y8qY
+https://www.youtube.com/watch?v=7SAwoP7Y8qY\
 The 2 images in the left hand side are all the observations for the agent.
 
 ### Lose cureves
