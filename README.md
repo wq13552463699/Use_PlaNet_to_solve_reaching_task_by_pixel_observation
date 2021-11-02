@@ -27,6 +27,7 @@ Since I use a customized reward function (goal-based reward function), the score
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/1.png" width="1000" >\
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/3.png" width="1000" >\
 <img src="https://github.com/wq13552463699/Use_PlaNet_to_solve_reaching_task_by_pixel_observation/blob/main/pictures/4.png" width="1000" >
+PlaNet's dynamics model can converge quickly.
 
 ## Further Concerns
 Using images directly as input has the following disadvantages:
