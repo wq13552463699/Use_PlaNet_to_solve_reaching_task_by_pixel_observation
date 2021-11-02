@@ -2,9 +2,7 @@
 
 Reinforcement learning(RL) has been widely used in the robotics area to solve a series of object manipulation tasks and achieve satisfactory results. For example, the reaching, 
 pushing,sliding, picking and placing tasks in the OpenAI gym environment has been solved accurately by a few reinforcement learning algorithms. However, it is a challenge 
-to replicate the current results from simulators to real robotics systems. This is because, in the real robotics system, it is hard to evaluate the real-time state, such as the
- position and pose of the robot and target object, but this can be done easily in the programmed simulator. Image-based observation can be used to solve the above problem, because
- the cost of extracting images is far lower. It has made decent progress in some other tasks.
+to replicate the current results from simulators to real robotics systems. This is because, in the real robotics system, it is hard to evaluate the real-time state, such as the position and pose of the robot and target object, but this can be done easily in the programmed simulator. Image-based observation can be used to solve the above problem, becausethe cost of extracting images is far lower. It has made decent progress in some other tasks.
  
  In this experiment, the image is directly and completely used as input to train the agent, without relying on any environmental data and robot data. The structure of Google PlaNet has been adjusted to make it compatible with our development environment.
  
